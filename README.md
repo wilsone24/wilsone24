@@ -22,20 +22,3 @@
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilsonestrada&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonestrada&layout=compact&theme=dark&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilsonestrada&theme=dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>Building data pipelines that scale. One spark job at a time. ⚡</i>
-</p>
