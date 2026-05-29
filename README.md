@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Wilson Estrada 👋</h1>
 
 <p align="center">
@@ -37,15 +36,10 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=wilsone24&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsone24&layout=compact&theme=radical&hide_border=true" alt="top langs" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=wilsone24&theme=radical&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wilsone24&theme=radical&no-frame=true&column=7" alt="trophies" />
 </p>
 
 ---
