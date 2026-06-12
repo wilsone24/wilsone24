@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Wilson Estrada 👋</h1>
+<h1 align="center">Hi, I'm Wilson Estrada </h1>
 
 <p align="center">
   <a href="https://github.com/wilsone24">
